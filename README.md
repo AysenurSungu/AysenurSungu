@@ -1,9 +1,6 @@
 #
-Welcome to my github profile 👋
-
-🔭 I’m currently working on Spring Boot
-
-🌱 I’m currently learning Java, Spring Boot, Microservice Architecture
-
-💬 Ask me about Java, Spring Boot
-
+Hi there 👋
+👋 Hi, I’m @AysenurSungu.
+🌱 I’m currently learning Spring Cloud Microservice Architecture.
+💞️ I’m looking to collaborate on web development.
+📫 How to reach me : sungu.aysenur@gmail.com
